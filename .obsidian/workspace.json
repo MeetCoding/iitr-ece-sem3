@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7a8814addc934852",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b43a3cdb0ea5b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe756bc63cb99c3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f86be59aae4de970",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b05f542ad1e1228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa156918e1478a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa064119c9f7b9c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a9fc7c4c6b20c29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa9fc8735a1bdc40",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5dc5f329691765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a775e2b9813d909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "660c705523b40ca2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1566b93e173cbd9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12b3ea577330fea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe756bc63cb99c3a",
+  "lastOpenFiles": [
+    "MAB-103/B. S. Grewal.pdf",
+    "MAB-103/B. S. Grewal - Numerical Methods in Engineering and Science_ C, C++, and MATLAB (2018).pdf",
+    "ECC-201/2. Fourier Transform.md",
+    "ECC-201/Simon Haykins.pdf",
+    "ECC-201/Communication-System-text-book-6.pdf",
+    "Overview/Course Details.md",
+    "MAB-103/Department Notes/Unit-1.pdf",
+    "MAB-103/Department Notes",
+    "MAB-103/Assignments/Assignment 1 (MAB-103) (1).pdf",
+    "MAB-103/Assignments",
+    "ECC-203/Lecture Notes/Unit_1_4 Maxwell Equations.pdf",
+    "ECC-203/Lecture Notes/Unit_1_3_Faraday's Law.pdf",
+    "Unit-1.pdf",
+    "ECC-203/1. Overview of Electromagnetism.md",
+    "Overview/Working Guide.md",
+    "MSI-101/1. Overview of Management.md",
+    "MAB-103/1. Error Analysis.md",
+    "ECO-102/FinFET.md",
+    "ECC-205/1. Introduction to Circuit Elements.md",
+    "attachments/Pasted image 20250719154706.png",
+    "attachments/Pasted image 20250719154532.png",
+    "ECC-201/1. Overview of Communication Systems.md"
+  ]
+}
