@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1b43a3cdb0ea5b03",
+        "id": "89185cd951358824",
         "type": "tabs",
         "children": [
           {
-            "id": "fe756bc63cb99c3a",
+            "id": "c9e3e286a41deddb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview/Course Details.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Course Details"
+            }
+          },
+          {
+            "id": "14cbd5f977156f3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ECC-201/3. Types of Signals.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Types of Signals"
+            }
+          },
+          {
+            "id": "d7334f8af4ca8c7d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MAB-103/Assignments/Assignment 1 (MAB-103).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment 1 (MAB-103)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "fa9fc8735a1bdc40",
@@ -161,29 +194,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe756bc63cb99c3a",
+  "active": "14cbd5f977156f3d",
   "lastOpenFiles": [
-    "MAB-103/B. S. Grewal.pdf",
-    "MAB-103/B. S. Grewal - Numerical Methods in Engineering and Science_ C, C++, and MATLAB (2018).pdf",
+    "Overview/Course Details.md",
+    "MAB-103/Assignments/Assignment 1 (MAB-103).pdf",
+    "MAB-103/Department Notes/Unit-1.pdf",
+    "ECC-201/3. Types of Signals.md",
+    "ECC-205/1. Introduction to Circuit Elements.md",
+    "MAB-103/Assignments/Assignment 1 (MAB-103) (1).pdf",
+    "ECC-201/1. Overview of Communication Systems.md",
+    "ECC-203/Lecture Notes/Unit_1_2_Magnetostatics.pdf",
+    "ECC-203/Lecture Notes/Unit_1_1_Electrostatics.pdf",
+    "ECC-203/Lecture Notes/Unit_2_1 Plane Waves.pdf",
+    "ECC-203/Lecture Notes/Unit_1_4 Maxwell Equations.pdf",
+    "ECC-203/Lecture Notes/Lecture 1 Introduction.pdf",
     "ECC-201/2. Fourier Transform.md",
     "ECC-201/Simon Haykins.pdf",
-    "ECC-201/Communication-System-text-book-6.pdf",
-    "Overview/Course Details.md",
-    "MAB-103/Department Notes/Unit-1.pdf",
-    "MAB-103/Department Notes",
-    "MAB-103/Assignments/Assignment 1 (MAB-103) (1).pdf",
-    "MAB-103/Assignments",
-    "ECC-203/Lecture Notes/Unit_1_4 Maxwell Equations.pdf",
-    "ECC-203/Lecture Notes/Unit_1_3_Faraday's Law.pdf",
-    "Unit-1.pdf",
+    "ECC-205/Hayt Circuit Analysis.pdf",
     "ECC-203/1. Overview of Electromagnetism.md",
-    "Overview/Working Guide.md",
     "MSI-101/1. Overview of Management.md",
+    "RoboAI/1. Mechanical and Mathematics.md",
     "MAB-103/1. Error Analysis.md",
+    "attachments/Pasted image 20250723215911.png",
+    "attachments/Pasted image 20250723215436.png",
+    "attachments/Pasted image 20250723215403.png",
+    "Overview/Working Guide.md",
     "ECO-102/FinFET.md",
-    "ECC-205/1. Introduction to Circuit Elements.md",
     "attachments/Pasted image 20250719154706.png",
-    "attachments/Pasted image 20250719154532.png",
-    "ECC-201/1. Overview of Communication Systems.md"
+    "attachments/Pasted image 20250719154532.png"
   ]
 }

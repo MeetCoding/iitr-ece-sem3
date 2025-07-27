@@ -2,29 +2,36 @@
 Sem 3 Drive (2024-25): https://drive.google.com/drive/folders/1tgsSRkNSugizh-cXZGKjHPwOB0DiSSFL
 Courses for ECE Semester 3 IITR (2025-26) for 24116051:
 
-| Course Code | Course Name                            | Professor                     | Credits |
-| ----------- | -------------------------------------- | ----------------------------- | ------- |
-| **ECO-102** | Fundamentals of Microelectronics       | Avirup Dasgupta,Biplab Sarkar | 3       |
-| **HSS-206** | Introduction to Social Psychology      | Ram Manohar Singh             | 3       |
-| **MSI-101** | Fundamentals of Management             | --                            | 3       |
-| **MAB-103** | Numerical Methods                      | Arbaz Khan                    | 4       |
-| **ECC-201** | Fundamentals of Communication System   | Vinod Pankajakshan            | 4       |
-| **ECC-203** | Electromagnetics and Radiating Systems | Gowrish Basavarajappa         | 4       |
-| **ECC-205** | Network Theory                         | Saravana Kumar M.             | 2       |
+| Course Code | Course Name                            | Material       | Professor             | Credits |
+| ----------- | -------------------------------------- | -------------- | --------------------- | ------- |
+| **WRO-101** | Electrical Energy Management           | PPT            | Thanga Raj Chelliah   | 3       |
+| **HSS-206** | Introduction to Social Psychology      | PPT            | Ram Manohar Singh     | 3       |
+| **PHI-101** | Physics-I                              | **Self Notes** | Lalita Sharma         | 4       |
+| **MAB-103** | Numerical Methods                      | Prof Notes     | Arbaz Khan            | 4       |
+| **ECC-201** | Fundamentals of Communication System   | **Self Notes** | Vinod Pankajakshan    | 4       |
+| **ECC-203** | Electromagnetics and Radiating Systems | PPT            | Gowrish Basavarajappa | 4       |
+| **ECC-205** | Network Theory                         | **Self Notes** | Saravana Kumar M.     | 2       |
 # Contact Details
 
-| Faculty Name          | Contact                                               |     |
-| --------------------- | ----------------------------------------------------- | --- |
-| Avirup Dasgupta       | virup@ece.iitr.ac.in +911332284967 Teams              |     |
-| Biplab Sarkar         | bsarkar@ece.iitr.ac.in Teams                          |     |
-| Ram Manohar Singh     | rmsingh@hs.iitr.ac.in +919897837525                   |     |
-| Arbaz Khan            | arbaz@ma.iitr.ac.in +919519785871                     |     |
-| Vinod Pankajakshan    | vinod.pankajakshan@ece.iitr.ac.in +917409726873 Teams |     |
-| Gowrish Basavarajappa | gowrish.b@ece.iitr.ac.in                              |     |
-| Saravana Kumar M.     | aravana.kumar@ece.iitr.ac.in                          |     |
+| Faculty Name          | Contact                                               |
+| --------------------- | ----------------------------------------------------- |
+| Thanga Raj Chelliah   | thanga.chelliah@wr.iitr.ac.in +919456593798           |
+| Lalita Sharma         | lalita.sharma@ph.iitr.ac.in                           |
+| Ram Manohar Singh     | rmsingh@hs.iitr.ac.in +919897837525                   |
+| Arbaz Khan            | arbaz@ma.iitr.ac.in +919519785871                     |
+| Vinod Pankajakshan    | vinod.pankajakshan@ece.iitr.ac.in +917409726873 Teams |
+| Gowrish Basavarajappa | gowrish.b@ece.iitr.ac.in                              |
+| Saravana Kumar M.     | aravana.kumar@ece.iitr.ac.in                          |
+# Study Work
+- **MAB-103:** Read department notes
+- **ECC-203:** Read ppts
+- **WRO-101:** Weekend notes
+- **HSS-206:** Weekend notes
+- **ECC-201:** Write detailed notes everyday
+- **ECC-205:** Write detailed notes everyday
 # Course Syllabus
-### ECO-102
-Energy band-diagrams, electrostatics, drift and diffusion transport, Semiconductor devices: PN junction diode, Schottky diode, MOSFET, memory devices, scaling theory and state-ofthe-art nanoscale devices, Fundamentals of high-power, high-speed and optoelectronics devices, Small signal and large signal model of transistors, Analysis of selected microelectronic circuits.
+### WRO-101
+Basics on electrical energy, measuring electrical power and energy, power quality, energy conservation, determining system efficiency, energy conservation potential in industries, residences and commercial buildings, energy tariff, pay-back period, Load management techniques- automatic demand controller, power factor correction, determining efficiency of in-situ motors, variable speed drives, Case studies- energy conservation on industrial motors/pumps, effects of power quality disturbances in electrical equipment.
 ### HSS-206
 Social psychological approaches to thinking about people; Implicit and explicit theories; Automatic & Controlled processing of thought - Schema, Priming, and mental framework of organizing information; Heuristics: availability, anchoring & adjustment; Biases; Group and its characteristics, Coordination and Cooperation in groups; Conformity and group Influence; Compliance and Obedience; Self-Categorization Theory; Social Role Theory; Attitude and Cognitive dissonance; Persuasion and theories of attitude change; Theories of Emotion, Emotional competence, emotional intelligence, Neurological bases of emotion. Need to belong, Interdependence theory, Attachment theory; Romantic relationship and Marriage; Love, Jealousy and Infidelity.
 ### MSI-101
@@ -66,7 +73,7 @@ Starting with Hilbert transform, complex baseband representations and Modulation
 
 | Course      | MTE         | ETE          | CWS                        | Quiz          |
 | ----------- | ----------- | ------------ | -------------------------- | ------------- |
-| **ECO-102** | 30          | 40           | 30 (10 atndnce)            | -             |
+| **WRO-101** | 25          | 50           | 25 (tut)                   | -             |
 | **HSS-206** | 25          | 40           | 35 (20 surp quiz)          |               |
 | **MSI-101** | 35          | 35           | 30 (10 atndnce, 20 ass)    | -             |
 | **MAB-103** | 25 (50 mrk) | 50 (100 mrk) | 25                         | -             |
@@ -74,10 +81,6 @@ Starting with Hilbert transform, complex baseband representations and Modulation
 | **ECC-203** | 25          | 50           | 25                         | -             |
 | **ECC-205** | 30          | 50           | 10 (atndnce)               | 10 (surprise) |
 # Recommended Books
-### ECO-102
-No book recommended
-### HSS-206
-No book recommended
 ### MSI-101
 Book not required
 - Pearson book on Operations Management
