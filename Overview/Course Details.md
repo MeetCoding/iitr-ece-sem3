@@ -22,6 +22,14 @@ Courses for ECE Semester 3 IITR (2025-26) for 24116051:
 | Vinod Pankajakshan    | vinod.pankajakshan@ece.iitr.ac.in +917409726873 Teams |
 | Gowrish Basavarajappa | gowrish.b@ece.iitr.ac.in                              |
 | Saravana Kumar M.     | aravana.kumar@ece.iitr.ac.in                          |
+# Writing Work
+- **MAB-103:** Assignment Solution Report (ASR)
+- **WRO-101:** Assignment Solution Report (ASR)
+- **PHI-101:** Assignment Solution Report (ASR)
+- **ECC-201:** Short Notes
+- **ECC-203:** Short Notes
+- **ECC-205:** Short Notes
+- **HSS-206:** Dictionary
 # Study Work
 - **MAB-103:** Read department notes
 - **ECC-203:** Read ppts
