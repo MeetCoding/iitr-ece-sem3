@@ -24,19 +24,20 @@
             }
           },
           {
-            "id": "712c7477d671bd75",
+            "id": "e5e3b4942769cc52",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECC-203/Lecture Notes/Unit_3_1 Fundamentals.pdf"
+                "file": "MAB-103/Generated Notes/Methods for Solving Linear Systems.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Unit_3_1 Fundamentals"
+              "icon": "lucide-file",
+              "title": "Methods for Solving Linear Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 257.5
   },
   "right": {
     "id": "fa9fc8735a1bdc40",
@@ -109,7 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Overview/Course Details.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Course Details"
             }
           },
           {
@@ -155,15 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Overview/Course Details.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Course Details"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,32 +184,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "712c7477d671bd75",
+  "active": "c9e3e286a41deddb",
   "lastOpenFiles": [
-    "ECC-203/Lecture Notes/Unit_2_2 Incidence.pdf",
+    "HSS-206/HSS-206 Introduction.pdf",
+    "ECC-203/Lecture Notes/Unit_3_4 Types of Tranmission Lines and Waveguides.pdf",
+    "ECC-203/Lecture Notes/lu55162oghdj.tmp",
+    "ECC-203/ECC 203 A1.pdf",
+    "MAB-103/Generated Notes/Methods for Solving Linear Systems.md",
+    "MAB-103/Generated Notes/Induced Norm.md",
+    "PHI-101/Assignments/assign2_PHI101_A2025.pdf",
+    "MAB-103/Generated Notes",
+    "Overview/Course Details.md",
+    "PHI-101/Assignments/Unconfirmed 958073.crdownload",
+    "PHI-101/Coordinate Systems.pdf",
+    "ECC-205/Notes (Generated).md",
+    "ECC-205/Self Notes/Network Theorems.md",
+    "ECC-205/Untitled.md",
+    "ECC-205/Self Notes",
+    "ECC-205/Self Notes/1. Introduction to Circuit Elements.md",
+    "ECC-201/Simon Haykins.pdf",
+    "ECC-201/Self Notes/3. Types of Signals.md",
+    "ECC-201/Self Notes/1. Overview of Communication Systems.md",
+    "ECC-201/Generated/Introduction to Amplitude Modulation.md",
     "ECC-201/Generated/Bandpass and Baseband.md",
     "ECC-201/Cheatsheets/Cheatsheet 1.pdf",
-    "ECC-201/Tutorials/Tutorial 2.pdf",
+    "ECC-205/Dependent Sources and Combinations.md",
     "ECC-201/Generated/Wireless Transmission Cheatsheet.md",
-    "ECC-201/Generated/Introduction to Amplitude Modulation.md",
-    "ECC-201/Tutorials",
-    "ECC-201/Cheatsheets",
-    "ECC-201/Tutorial 2.pdf",
-    "ECC-201/Cheatsheet 1.pdf",
-    "Cheatsheet 1.pdf",
-    "Tutorial 2.pdf",
-    "ECC-205/network theory tut1.pdf",
-    "network theory tut1.pdf",
-    "Overview/Course Details.md",
     "ECC-201/Bandpass and Baseband.md",
     "ECC-201/Introduction to Amplitude Modulation.md",
-    "ECC-201/Self Notes/1. Overview of Communication Systems.md",
-    "ECC-205/1. Introduction to Circuit Elements.md",
     "RoboAI/1. Mechanical and Mathematics.md",
-    "ECC-205/Dependent Sources and Combinations.md",
     "ECC-201/Wireless Transmission Cheatsheet.md",
     "ECC-201/Perplexity Assignment 1.md",
-    "ECC-201/Self Notes/3. Types of Signals.md",
     "ECC-201/Self Notes/2. Fourier Transform.md",
     "ECC-201/Wireless Transmission of Signal.md",
     "ECC-203/1. Overview of Electromagnetism.md",

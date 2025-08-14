@@ -82,8 +82,7 @@ Starting with Hilbert transform, complex baseband representations and Modulation
 | Course      | MTE         | ETE          | CWS                        | Quiz          |
 | ----------- | ----------- | ------------ | -------------------------- | ------------- |
 | **WRO-101** | 25          | 50           | 25 (tut)                   | -             |
-| **HSS-206** | 25          | 40           | 35 (20 surp quiz)          |               |
-| **MSI-101** | 35          | 35           | 30 (10 atndnce, 20 ass)    | -             |
+| **HSS-206** | 25          | 40           | 15                         | 20 (surp)     |
 | **MAB-103** | 25 (50 mrk) | 50 (100 mrk) | 25                         | -             |
 | **ECC-201** | 25          | 40           | 10 (atndnce, 5 lec, 5 tut) | 25            |
 | **ECC-203** | 25          | 50           | 25                         | -             |
