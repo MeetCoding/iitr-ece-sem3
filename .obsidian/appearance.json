@@ -1,5 +1,7 @@
 {
   "cssTheme": "ion",
   "baseFontSize": 19,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro"
 }
