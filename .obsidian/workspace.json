@@ -22,8 +22,47 @@
               "icon": "lucide-file",
               "title": "Course Details"
             }
+          },
+          {
+            "id": "70e8cc67b4a0df81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WRO-101/Perplexity's WRO-101 Syllabus.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perplexity's WRO-101 Syllabus"
+            }
+          },
+          {
+            "id": "d152b23a955c9bca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "WRO-101/EEM_2025_TRC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EEM_2025_TRC"
+            }
+          },
+          {
+            "id": "b0902614654e7fd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "WRO-101/Tutorials/Tutorial-1(EEM).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tutorial-1(EEM)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 242.5
   },
   "right": {
     "id": "fa9fc8735a1bdc40",
@@ -143,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview/Course Details.md",
+                "file": "WRO-101/Tutorials/Tutorial-1(EEM).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Course Details"
+              "title": "Outline of Tutorial-1(EEM)"
             }
           }
         ],
@@ -170,26 +209,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9e3e286a41deddb",
+  "active": "b0902614654e7fd9",
   "lastOpenFiles": [
-    "HSS-206/Introduction.md",
-    "HSS-206/HSS-206 Introduction.pdf",
+    "WRO-101/WRO-101 MTE.pdf",
+    "WRO-101/Tutorials/Tutorial-2(EEM).pdf",
+    "WRO-101/Tutorials/Tutorial-4.pdf",
+    "WRO-101/Perplexity's WRO-101 Syllabus.md",
+    "WRO-101/Tutorials/Tutorial-1(EEM).pdf",
+    "WRO-101/Tutorials/Tutorial-3(EEM)_revised.pdf",
+    "ECC-201/PLL_2.pdf",
+    "ECC-201/PLL_1.pdf",
+    "ECC-201/PLL_1.pdf.crdownload",
+    "WRO-101/EEM_2025_TRC.pdf",
     "Overview/Course Details.md",
-    "ECC-201/Tutorials/tut_am.pdf",
-    "ECC-201/tut_am.pdf",
     "MAB-103/Assignments/Assignment 3 (MAB-103).pdf",
     "MAB-103/Department Notes/Unit-3_MAB103 (1).pdf",
-    "MAB-103/Unit-3_MAB103 (1).pdf",
-    "MAB-103/Assignment 3 (MAB-103).pdf",
-    "ECC-203/Lecture Notes/Unit_3_3 Smith Chart.pdf",
-    "ECC-203/Problems/Smith Chart Problems Part 1.pdf",
-    "ECC-203/Problems/lu254255p2q0.tmp",
+    "HSS-206/Introduction.md",
+    "Untitled.md",
+    "ECC-205/Self Notes/1. Introduction to Circuit Elements.md",
+    "HSS-206/Social Cognition.md",
     "MAB-103/Generated Notes/Methods for Solving Linear Systems.md",
     "MAB-103/Generated Notes/Induced Norm.md",
     "ECC-205/Notes (Generated).md",
     "ECC-205/Self Notes/Network Theorems.md",
     "ECC-205/Untitled.md",
-    "ECC-205/Self Notes/1. Introduction to Circuit Elements.md",
     "ECC-201/Self Notes/3. Types of Signals.md",
     "ECC-201/Self Notes/1. Overview of Communication Systems.md",
     "ECC-201/Generated/Introduction to Amplitude Modulation.md",
@@ -204,12 +247,9 @@
     "ECC-201/Self Notes/2. Fourier Transform.md",
     "ECC-201/Wireless Transmission of Signal.md",
     "ECC-203/1. Overview of Electromagnetism.md",
-    "MSI-101/1. Overview of Management.md",
-    "MAB-103/1. Error Analysis.md",
     "attachments/Pasted image 20250723215911.png",
     "attachments/Pasted image 20250723215436.png",
     "attachments/Pasted image 20250723215403.png",
-    "Overview/Working Guide.md",
     "attachments/Pasted image 20250719154706.png",
     "attachments/Pasted image 20250719154532.png"
   ]

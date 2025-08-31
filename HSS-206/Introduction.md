@@ -1,12 +1,3 @@
-Alright, let’s build **topper-level academic notes** for your _IIT Roorkee Social Psychology – Perception, Motivation, and Research Methods_ lecture.  
-The aim is: **deep conceptual clarity + exam-ready short notes + illustrative examples + case studies + clear structure + tables/diagrams.**
-
----
-
-# 📘 SOCIAL PSYCHOLOGY NOTES
-
-**Topic:** Why do people behave the way they do?  
-**Focus Areas:** Perception, Motivation, Emotions, Social Psychology as Science & Research Methods
 
 ---
 
@@ -70,7 +61,7 @@ It’s not passive reception – our brain actively reshapes signals into meanin
 
 ---
 
-## 2.1 Motives, Emotions, & Perception
+### 2.1 Motives, Emotions, & Perception
 
 - **Cocktail Party Phenomenon** → selective attention to significant stimuli amid noise.  
     _Example:_ Recognizing your name across a crowded wedding hall.
@@ -81,7 +72,7 @@ It’s not passive reception – our brain actively reshapes signals into meanin
 
 ---
 
-## 2.2 Perceptual Organization: Gestalt Principles
+### 2.2 Perceptual Organization: Gestalt Principles
 
 Gestalt Psychology principle → _“The whole is greater than the sum of its parts.”_
 
@@ -97,7 +88,7 @@ Gestalt Psychology principle → _“The whole is greater than the sum of its pa
 
 ---
 
-## 2.3 Perceptual Fallacies
+### 2.3 Perceptual Fallacies
 
 **Illusion:** Misinterpretation of real external stimulus.
 
@@ -165,7 +156,7 @@ text
 
 ---
 
-## 3.1 Types of Motives
+### 3.1 Types of Motives
 
 |Type|Meaning|Examples|
 |---|---|---|
@@ -175,7 +166,7 @@ text
 
 ---
 
-## 3.2 Intrinsic vs Extrinsic Motivation
+### 3.2 Intrinsic vs Extrinsic Motivation
 
 |Motivation|Source|Example|
 |---|---|---|
@@ -205,7 +196,7 @@ text
 
 ---
 
-## 4.1 Survey Method
+### 4.1 Survey Method
 
 - **Cross-sectional survey:** data at one point of time.
     
@@ -228,7 +219,7 @@ text
 
 ---
 
-## 4.2 Experimental Method
+### 4.2 Experimental Method
 
 - **Independent Variable (IV):** manipulated factor.
     
@@ -252,7 +243,7 @@ text
 
 ---
 
-## 4.3 Other Methods
+### 4.3 Other Methods
 
 - **Naturalistic Observation:** Jane Goodall studying chimpanzees.
     
@@ -311,7 +302,3 @@ text
     
 - Tables for quick **last-minute revision**.
     
-
----
-
-Would you also like me to **draw simple diagrams** (Gestalt figures + Motivation cycle + research methodology flowchart) in **ASCII/flow format** so you can recall them in the exam without actual drawings?
