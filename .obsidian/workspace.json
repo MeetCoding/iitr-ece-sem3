@@ -55,10 +55,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "WRO-101/Tutorials/Tutorial-1(EEM).pdf"
+                "file": "ECC-203/Applied Electronics Ulaby.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tutorial-1(EEM)"
+              "title": "Applied Electronics Ulaby"
             }
           }
         ],
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WRO-101/Tutorials/Tutorial-1(EEM).pdf",
+                "file": "WRO-101/Tutorials/Tutorial-4.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tutorial-1(EEM)"
+              "title": "Outline of Tutorial-4"
             }
           }
         ],
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,19 +212,19 @@
   },
   "active": "b0902614654e7fd9",
   "lastOpenFiles": [
-    "WRO-101/WRO-101 MTE.pdf",
-    "WRO-101/Tutorials/Tutorial-2(EEM).pdf",
+    "ECC-201/B P Lathi.pdf",
+    "ECC-201/modern-digital-analog-communication-system-b.p-lathi-3e_compressed (1).pdf",
+    "MAB-103/Assignments/Assignment 3 (MAB-103).pdf",
+    "ECC-203/Applied Electronics Ulaby.pdf",
+    "MAB-103/Department Notes/Unit-3_MAB103 (1).pdf",
+    "WRO-101/Tutorials/Tutorial-3(EEM)_revised.pdf",
     "WRO-101/Tutorials/Tutorial-4.pdf",
+    "WRO-101/EEM_2025_TRC.pdf",
     "WRO-101/Perplexity's WRO-101 Syllabus.md",
     "WRO-101/Tutorials/Tutorial-1(EEM).pdf",
-    "WRO-101/Tutorials/Tutorial-3(EEM)_revised.pdf",
-    "ECC-201/PLL_2.pdf",
-    "ECC-201/PLL_1.pdf",
-    "ECC-201/PLL_1.pdf.crdownload",
-    "WRO-101/EEM_2025_TRC.pdf",
+    "WRO-101/WRO-101 MTE.pdf",
+    "WRO-101/Tutorials/Tutorial-2(EEM).pdf",
     "Overview/Course Details.md",
-    "MAB-103/Assignments/Assignment 3 (MAB-103).pdf",
-    "MAB-103/Department Notes/Unit-3_MAB103 (1).pdf",
     "HSS-206/Introduction.md",
     "Untitled.md",
     "ECC-205/Self Notes/1. Introduction to Circuit Elements.md",
