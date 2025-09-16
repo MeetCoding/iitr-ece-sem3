@@ -1,0 +1,40 @@
+/* Styles for the PDF Toolkit Modal */
+.pdf-toolkit-modal .modal-content {
+    text-align: center;
+}
+
+.pdf-toolkit-modal h2 {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    word-break: break-all; /* Prevents long file names from overflowing */
+}
+
+.pdf-toolkit-modal .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+}
+
+.pdf-toolkit-modal button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.pdf-toolkit-modal .extraction-container {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid var(--background-modifier-border);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.pdf-toolkit-modal #page-range-input {
+    padding: 8px;
+    width: 150px;
+    text-align: center;
+}
+

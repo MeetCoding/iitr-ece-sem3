@@ -1,13 +1,9 @@
-
----
-
-## Introduction to Social Cognition
-
 **Definition:**  
 Social cognition is the study of _how people perceive, interpret, analyze, remember, and use information about the social world_ and the behavior of others. Unlike general cognition, which includes thinking, perception, and learning in isolation, social cognition emphasizes cognitive processes in _social contexts_—how we understand and react to others in social interactions.
 
 It involves mental processes including attention, memory, interpretation, reasoning, and decision-making as they relate specifically to social information and social environments.
-## Real-life Examples:
+
+**Real-life Examples:**
 
 - Deciding whether someone’s smile is friendly or sarcastic.
     
@@ -18,9 +14,8 @@ It involves mental processes including attention, memory, interpretation, reason
 
 ---
 
-## Core Concepts and Processes in Social Cognition
-
-## 1. **Schemas**
+## Core Concepts and Processes
+### 1. **Schemas**
 
 - **Definition:**  
     Schemas are cognitive frameworks or knowledge structures representing substantial information about concepts, their attributes, and relationships within social contexts. They help organize social information, guide attention, memory, interpretation, and influence behavior.
@@ -48,7 +43,7 @@ It involves mental processes including attention, memory, interpretation, reason
 
 ---
 
-## 2. **Priming**
+### 2. **Priming**
 
 - **Definition:**  
     Priming is the activation of particular cognitive associations or schemas by external stimuli, often outside conscious awareness, which then influences perception, judgment, and behavior.
@@ -60,14 +55,20 @@ It involves mental processes including attention, memory, interpretation, reason
     - Psychological students reading about disorders become more attuned to noticing anxiety symptoms in themselves.
         
     - Watching a scary movie primes interpreting ambiguous noises as threats.
-        
+	    
+	- **Experiment**: Ross and Samuels (1993) had dorm advisors nominate "cooperators" and "Defectors."
+	    
+		- **Manipulation**: Participants played a game called either the "Wall street game" or "Community game."
+	    
+		- **Result**: As shown in the bar graph, players in the "Community Game" were far more cooperative (~70%) than those in the "Wall Street Game" (~30%), regardless of whether they were labeled as "cooperators" or "defectors."
+		
 - **Priming in Daily Life:**  
     Hearing the word "cold" related to a person or environment can influence perception of social warmth or physical temperature.
     
 
 ---
 
-## 3. **Scripts**
+### 3. **Scripts**
 
 - **Definition:**  
     Scripts are specialized schemas representing knowledge about sequences of events or behaviors that occur in specific social contexts. They guide expectations and behavior in familiar situations.
@@ -78,7 +79,7 @@ It involves mental processes including attention, memory, interpretation, reason
 
 ---
 
-## 4. **Framing**
+### 4. **Framing**
 
 - **Definition:**  
     Framing refers to the way information or events are presented or structured, influencing decision-making and judgment by highlighting certain aspects while omitting others.
@@ -96,9 +97,9 @@ It involves mental processes including attention, memory, interpretation, reason
 
 ---
 
-## 5. **Heuristics**
+### 5. **Heuristics**
 
-- **Definition:**  
+- **Definition (Kahneman & Tversky's heuristics theory):**  
     Heuristics are mental shortcuts or rules of thumb that simplify decision-making under uncertainty, though sometimes leading to biases and errors.
     
 - **Types:**
@@ -110,38 +111,37 @@ It involves mental processes including attention, memory, interpretation, reason
 |Availability|Judging likelihood based on ease of recall|Overestimating shark attacks after media reports|
 |Anchoring & Adjustment|Using an initial value as a reference and adjusting insufficiently|Estimating prices starting from GPS price quotes|
 
----
-
-## Classic Case Studies and Experiments
-
-|Concept|Study/Experiment|Summary|Significance|
-|---|---|---|---|
-|Schema Persistence|Jacobson (1968) "Bloomers" Study|Teachers told some students would "bloom." Those students showed actual IQ gains—teacher's expectations influenced student performance (self-fulfilling prophecy).|Demonstrates powerful role of schemas on social behavior.|
-|Priming|Bargh et al. (1996)|Primed participants with ageing-related words walked slower, unknowingly influenced by the prime.|Shows unconscious effects of priming on behavior.|
-|Framing|Tversky & Kahneman (1981)|Asian disease problem: framing affected risk-taking choices, revealing biases in decision-making under uncertainty.|Introduced framing effect, foundational in behavioral economics.|
-|Heuristics|Kahneman & Tversky's heuristics theory|Described availability, representativeness, and anchoring heuristics explaining cognitive shortcuts and biases in everyday judgments.|Key to understanding systematic decision biases.|
-|Overconfidence|Dunning et al. (1990) Game Show Study|Poor performers were more overconfident about predicting others' answers than better performers were; incompetence correlated with overconfidence.|Reveals cognitive bias where low ability inflates confidence.|
 
 ---
 
-## Cognitive Biases in Social Cognition
+## Cognitive Biases
 
+**Error in Judging:**
 - **Confirmation Bias:** Seeking information consistent with one’s beliefs; rejecting opposing evidence. Example: Astrology believers ignoring disconfirming data.
     
-- **Base Rate Fallacy:** Ignoring statistical base rates in favor of specific case details. Example: Judging which hospital has more rare birth outcomes incorrectly.
+- **Base Rate Fallacy:** Ignoring statistical base rates in favor of specific case details. Example: The startup investment example illustrates the base rate fallacy by showing how an investor might be swayed by a specific, compelling story—such as a charismatic founder and a revolutionary idea. This vivid presentation can cause them to ignore the general statistical fact, or "base rate," that the vast majority of new startups fail. Making an investment based on the impressive founder while disregarding the high probability of failure is a classic example of this cognitive error.
     
 - **Gambler’s Fallacy:** Belief that outcomes "balance out" in short runs. Example: Believing a coin is "due" to land tails after multiple heads.
+	
+- **Hot Hand Fallacy:** the belief that a person who has experienced success has a greater chance of further success in additional attempts.
+
+**Error in Self:**
+- **False Consensus Effect:** Overestimating how much others share one's beliefs. Imagine you just watched a movie that you thought was absolutely brilliant. You assume that most other people must feel the same way. When you go online and see that many people disliked it, you're genuinely surprised.
     
-- **False Consensus Effect:** Overestimating how much others share one's beliefs.
+- **Overconfidence Bias:** Excess confidence in one's judgments beyond actual accuracy. Example: Students overestimating test performance. Poor performers were more overconfident about predicting others' answers than better performers were; incompetence correlated with overconfidence. Reveals cognitive bias where low ability inflates confidence.
     
-- **Overconfidence Bias:** Excess confidence in one's judgments beyond actual accuracy. Example: Students overestimating test performance.
+- **Optimistic Bias:** Underestimating personal risk of negative events. A driver might know that texting while driving is statistically very dangerous and leads to accidents. However, they believe they are a better-than-average driver and can handle it safely. They think that while accidents happen to _other_ people who text and drive, it won't happen to _them_. This underestimation of their personal risk is the **optimistic bias**.
     
-- **Optimistic Bias:** Underestimating personal risk of negative events.
-    
+- **Planning Fallacy:** t is the tendency to believe that we can accomplish more in a specific period than we actually can, or that a task will take less time than it really will.
+
+**Errors Where Thoughts Feel Real:**
+- **Counterfactual Thinking:** It refers to thinking about "what might have been." The slides note that upward counterfactuals (comparing outcomes to more favorable ones) can lead to strong feelings of dissatisfaction
+
+- **Magical Thinking:** It involves making assumptions that don't hold up to rational scrutiny but feel compelling (e.g., refusing to eat a piece of chocolate shaped like a cockroach).
 
 ---
 
-## System 1 and System 2 Processing in Social Cognition
+## System 1 and System 2
 
 |Feature|System 1 (Intuitive)|System 2 (Deliberative)|
 |---|---|---|
@@ -152,6 +152,9 @@ It involves mental processes including attention, memory, interpretation, reason
 
 - System 1 often dominates social cognition, allowing quick judgments but prone to biases.
     
+- **Experiment**: Dijksterhuis and van Olden (2006) had students choose a poster to take home under three conditions: immediate decision, conscious thought, or unconscious thought (working on an anagram task as a distraction).
+    - **Result**: 3-5 weeks later, the "unconscious thought" group reported the highest satisfaction with their choice (7.3/10) and valued their poster at the highest price (€9.56), significantly more than the "conscious thought" group (5.03 satisfaction, €6.68 price).
+    - **Conclusion**: For complex decisions (like choosing between apartments with multiple variables), those who were distracted and unable to focus consciously made the most satisfying decisions.
 
 ---
 
@@ -160,18 +163,12 @@ It involves mental processes including attention, memory, interpretation, reason
 - **Embodied Cognition:** Physical sensations influence social judgments. E.g., holding a warm drink increases perception of social warmth.
     
 - **Reasoning by Metaphor:** Abstract social concepts are understood through concrete images/metaphors shaping interpretation (e.g., "relationship on the right track").
-    
+
+- **Landua, Sullivan and Greenberg Experiment:**
+	- **Stage I**: Participants were primed with the concept of body contamination by reading about either harmful or non-harmful bacteria.
+	    
+	- **Stage II**: The United States was described using a body metaphor ("growth spurt") or without one ("period of innovation").
+	    
+	- **Result**: Those concerned about "body contamination" expressed more negative attitudes toward immigration when the body metaphor was used, compared to when it was not.
 
 ---
-
-## Summary Table: Key Social Cognition Concepts
-
-|Concept|Definition|Role/Effect|Examples|Classic Studies/Applications|
-|---|---|---|---|---|
-|Schema|Mental knowledge structures|Guide attention, encoding, retrieval|Teacher stereotype, gender roles|Jacobson (1968) Bloomers|
-|Priming|Temporary activation of schemas|Influences perception and behavior|Primed slow walking (aging words)|Bargh et al. (1996)|
-|Scripts|Knowledge about event sequences|Guide social behavior|Restaurant visit script|-|
-|Framing|Presentation of info influencing judgment|Risk preference shifts|Asian disease problem|Tversky & Kahneman (1981)|
-|Heuristics|Mental shortcuts for judgments|Quick but fallible decisions|Availability, representativeness, anchoring|Kahneman & Tversky|
-|Cognitive Biases|Systematic thinking errors|Distort social judgments|Confirmation bias, gambler’s fallacy|Dunning et al. (1990), Tversky & Kahneman|
-|Embodied Cognition|Physical states affect cognition|Link physical warmth to social warmth|Warm drink effect|User query experiments|

@@ -1,7 +1,7 @@
 
 ---
 
-## 1. Social Psychology: An Introduction
+## 1. Social Psychology
 
 **Definition:**  
 Social Psychology is the **scientific study of how people think, feel, and behave** in social contexts, i.e., when influenced by the **real, imagined, or implied presence of others**.
@@ -11,7 +11,7 @@ Social Psychology is the **scientific study of how people think, feel, and behav
 - **Social Psychology** → emphasis on **social interaction & influence** on individual behavior.
     
 
-**Core Features of Science in Social Psychology**
+### 1.1 Core Features
 
 |Value|Explanation|
 |---|---|
@@ -22,7 +22,7 @@ Social Psychology is the **scientific study of how people think, feel, and behav
 |**Observable & Verifiable**|Open to empirical proof|
 |**Falsifiable**|Hypotheses can be disproven|
 
-**Big Ideas in Social Psychology (Classic Exam Question):**
+### 1.2 Big Ideas in Social Psychology
 
 1. We construct our **social reality** (perceptions shape reality).
     
@@ -39,30 +39,21 @@ Social Psychology is the **scientific study of how people think, feel, and behav
 
 **Examples:**
 
-- Why do people conform in groups? (Asch Experiment)
+- Why do people conform in groups? (Asch Experiment) -> The Asch conformity experiment demonstrated the power of group pressure. In the study, a single participant was placed in a group of actors and asked to perform a simple visual task. When the actors all gave an obviously wrong answer, a significant number of participants conformed to the incorrect majority, ignoring their own senses to avoid standing out.
     
-- Why do individuals commit atrocities under authority? (Milgram Experiment)
+- Why do individuals commit atrocities under authority? (Milgram Experiment) -> The Milgram experiment was a famous study on obedience to authority. Participants were instructed by an experimenter to deliver what they believed were increasingly painful electric shocks to another person (an actor). A shockingly high percentage of participants obeyed, administering the maximum voltage despite hearing the actor's screams of pain.
     
 
 ---
 
-## 2. PERCEPTION
+## 2. Perception
 
 **Definition:**  
 Perception = the **active selection, organization, and interpretation** of sensory input to construct an understanding of our surroundings.  
 It’s not passive reception – our brain actively reshapes signals into meaningful patterns.
 
-**Illustrations:**
-
 - Reading jumbled words: _“Yuo cna raed tihs esaliy”_ → brain organizes input despite errors.
-    
-- Hearing your own name in a noisy party (Cocktail Party Effect).
-    
-
----
-
-### 2.1 Motives, Emotions, & Perception
-
+	
 - **Cocktail Party Phenomenon** → selective attention to significant stimuli amid noise.  
     _Example:_ Recognizing your name across a crowded wedding hall.
     
@@ -72,7 +63,7 @@ It’s not passive reception – our brain actively reshapes signals into meanin
 
 ---
 
-### 2.2 Perceptual Organization: Gestalt Principles
+### 2.1 Gestalt Principles
 
 Gestalt Psychology principle → _“The whole is greater than the sum of its parts.”_
 
@@ -88,7 +79,7 @@ Gestalt Psychology principle → _“The whole is greater than the sum of its pa
 
 ---
 
-### 2.3 Perceptual Fallacies
+### 2.2 Perceptual Fallacies
 
 **Illusion:** Misinterpretation of real external stimulus.
 
@@ -133,15 +124,15 @@ Types:
 
 ---
 
-## 3. MOTIVATION
+## 3. Motivation
 
 **Definition:** Motivation is an **internal process** that initiates, directs, and sustains goal-directed behavior.
 
 **Motivational Process (Flow Diagram):**
 
-text
-
-`Need → Drive/Tension → Goal-directed Behavior → Incentive/Reward → Homeostasis`
+```
+Need → Drive/Tension → Goal-directed Behavior → Incentive/Reward → Homeostasis
+```
 
 **Examples of Motivation in Social Context:**
 
@@ -175,13 +166,14 @@ text
 
 **Classic Study: Bruner’s Perceptual Experiment**
 
-- Showed motives influence perception (hungry children more likely to see food-related images in ambiguous patterns).  
+- Showed motives influence perception (hungry children more likely to see food-related images in ambiguous patterns). 
     → Demonstrates **perception is shaped by needs**.
-    
+
+- While rich 10-year-olds showed some overestimation of coin sizes, poor 10-year-olds showed a much more pronounced deviation, overestimating the size of coins by as much as +50%. This highlights the direct impact of socioeconomic need on perception.
 
 ---
 
-## 4. RESEARCH METHODS IN SOCIAL PSYCHOLOGY
+## 4. Research Methods
 
 **Objective of Research:**
 
@@ -192,7 +184,10 @@ text
 3. Discover causal relations (experiments).
     
 4. Develop/refine theory.
-    
+
+**Features of a Survey:** Accuracy, Objectivity, Skepticism, Open-mindedness, and Replicability
+
+A **theory** is a set of coherent propositions that tries to explain a set of observations
 
 ---
 
@@ -210,6 +205,10 @@ text
 **Strengths:** Efficient, generalizable.  
 **Weaknesses:** Biased reporting, low depth.
 
+- **Random Sample**: In this method, every individual in the population has an equal chance of being selected. This is like drawing names out of a hat. It helps create a sample that is highly likely to be representative of the whole population.
+    
+- **Stratified Sample**: This method involves dividing the population into distinct subgroups, or "strata," based on shared characteristics (e.g., age, gender, major). Then, a random sample is taken from each of these subgroups. This ensures that all key groups within the population are represented in the final sample.
+
 **Scales Used:**
 
 - **Likert Scale:** Strongly Agree ↔ Strongly Disagree.
@@ -224,6 +223,8 @@ text
 - **Independent Variable (IV):** manipulated factor.
     
 - **Dependent Variable (DV):** measured effect.
+	
+- **Extraneous Variable:** affects the factor (in a study testing if caffeine improves memory, an extraneous variable could be the amount of sleep a participant got the night before)
     
 - **Random Assignment:** ensures groups are equal.
     
@@ -233,13 +234,16 @@ text
 1. **Laboratory Experiments** → controlled setting.
     
     - Example: _Bystander Effect Study_ → fewer people helped when more bystanders were present.
-        
+	    - **Independent Variable**: "The number of other persons who the participant believed were participating in the discussion".
+		- **Dependent Variables**: "Whether the participant would leave the room to offer help" and "How quickly they would do so".
+
 2. **Field Experiments** → real-life setting.
     
     - Example: _Dutton & Aron Bridge Study (1974)_
         
         - More men from high-arousal suspension bridge called female experimenter (misattribution of arousal → attraction).
-            
+        - **Independent Variable**: The arousal condition (High Arousal on a suspension bridge vs. Low Arousal on a solid bridge).
+        - **Dependent Variable**: "The number of men who later called the experimenter".
 
 ---
 
@@ -251,54 +255,3 @@ text
     
 
 ---
-
-## 5. SUMMARY TABLE – Core Concepts
-
-|Concept|Definition|Classic Example|
-|---|---|---|
-|Perception|Organization & interpretation of sensory data|Cocktail party effect|
-|Gestalt Principles|Organization rules: whole > parts|Closure & similarity|
-|Illusion|False interpretation of real stimuli|Müller–Lyer illusion|
-|Delusion|False unshakable belief|Persecutory delusion|
-|Hallucination|False perception without stimulus|Hearing voices|
-|Motivation Process|Need → Drive → Goal → Incentive|Eating when hungry|
-|Intrinsic Motivation|Behavior for inner reward|Playing music for joy|
-|Extrinsic Motivation|Behavior for external reward|Studying for grades|
-|Survey Method|Self-report via questionnaire|Public opinion polls|
-|Lab Experiment|Independent manipulation of IV|Bystander effect|
-|Field Experiment|Natural real-world manipulation|Bridge study|
-|Case Study|Single detailed case|Phineas Gage|
-
----
-
-## 6. END NOTES (Memory Aids for Exams)
-
-- **I–D–H Rule** for perceptual fallacies:
-    
-    - Illusion = Incorrect perception
-        
-    - Delusion = Distorted belief
-        
-    - Hallucination = Imagined perception
-        
-- **Gestalt Mnemonic:**
-    
-    - **N.S.C.C.C.C.** → Nearness, Similarity, Continuity, Closure, Contiguity, Common Region
-        
-- **Motivation Cycle (ASCII):**
-    
-    text
-    
-    `Need → Drive → Behavior → Incentive → Goal Fulfillment → Reduced Need`
-    
-
----
-
-✅ These notes are **exhaustive but exam-friendly**:
-
-- Concise definitions (science exam-ready).
-    
-- Detailed illustrations & psychological studies (to score higher in long answers).
-    
-- Tables for quick **last-minute revision**.
-    

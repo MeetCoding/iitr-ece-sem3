@@ -1,0 +1,11 @@
+{
+	"id": "pdf-context-toolkit",
+	"name": "PDF Toolkit",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Right-click a PDF to OCR, compress, or extract pages using QPDF and OCRmyPDF.",
+	"author": "Your Name",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": true
+}
+

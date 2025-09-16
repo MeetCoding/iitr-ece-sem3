@@ -1,0 +1,47 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    // File Layout
+    // "rootDir": "./src",
+    // "outDir": "./dist",
+
+    // Environment Settings
+    // See also https://aka.ms/tsconfig/module
+    "module": "CommonJS", // Changed from "ESNext" to "CommonJS"
+    "target": "ES2019",
+    "lib": ["ES2019", "DOM"],
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "isolatedModules": true,
+    "strict": true,
+    "outDir": "./", // Output to plugin root
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+
+    // Other Outputs
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    // Stricter Typechecking Options
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    // Style Options
+    // "noImplicitReturns": true,
+    // "noImplicitOverride": true,
+    // "noUnusedLocals": true,
+    // "noUnusedParameters": true,
+    // "noFallthroughCasesInSwitch": true,
+    // "noPropertyAccessFromIndexSignature": true,
+
+    // Recommended Options
+    "jsx": "react-jsx",
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
