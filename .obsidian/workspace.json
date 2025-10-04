@@ -4,107 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "71b0b447f5e8eba5",
+        "id": "d66e4037bdb66220",
         "type": "tabs",
         "children": [
           {
-            "id": "88e6fcaebd45feea",
+            "id": "74a62c7c886d5783",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ECC-201/Simon Haykins.pdf"
+                "file": "MAB-103/Assignments/Assignment 4 (MAB-103).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Simon Haykins"
+              "title": "Assignment 4 (MAB-103)"
             }
           },
           {
-            "id": "df0ed995baf6001a",
+            "id": "e82ea30b192147f7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECC-201/B P Lathi.pdf"
+                "file": "Assignment 4 (MAB-103).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "B P Lathi"
+              "icon": "lucide-file",
+              "title": "Assignment 4 (MAB-103)"
             }
           },
           {
-            "id": "dacbfb8a5c3f04b8",
+            "id": "851e99817d86ef12",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECC-201/Tutorials/tut_am_ocr.pdf"
+                "file": "ECC-201/Self Notes/AM.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "tut_am_ocr"
-            }
-          },
-          {
-            "id": "57d93d170c5a566f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ECC-201/Self Notes/ECC201 AM Notes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ECC201 AM Notes"
-            }
-          },
-          {
-            "id": "65ad1519b937c4ac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ECC-201/Self Notes/ECC201 FM Notes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ECC201 FM Notes"
-            }
-          },
-          {
-            "id": "31c24567fce16b7c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ECC-201/Cheatsheets/Cheatsheet 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Cheatsheet 1"
-            }
-          },
-          {
-            "id": "b7d710118aef5540",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ECC-201/Tutorials/AM Tut.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AM Tut"
-            }
-          },
-          {
-            "id": "c19308c4954d8b4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ECC-201/Tutorials/FM Tut.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FM Tut"
+              "icon": "lucide-file",
+              "title": "AM"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "fa9fc8735a1bdc40",
@@ -225,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECC-201/Self Notes/ECC201 AM Notes.pdf",
+                "file": "Assignment 4 (MAB-103).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ECC201 AM Notes"
+              "title": "Outline of Assignment 4 (MAB-103)"
             }
           }
         ],
@@ -239,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
+    "width": 374.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -251,24 +194,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false,
-      "ghost-writer:GhostWriter": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "57d93d170c5a566f",
+  "active": "851e99817d86ef12",
   "lastOpenFiles": [
+    "MAB-103/Assignments/Assignment 6 (MAB-103).pdf",
+    "MAB-103/Assignments/Assignment 3 (MAB-103).pdf",
+    "MAB-103/Assignments/Assignment 2 (MAB-103).pdf",
+    "Assignment 4 (MAB-103).md",
+    "MAB-103/Assignments/Assignment 4 (MAB-103).pdf",
+    "MAB-103/Assignments/Assignment 1 (MAB-103).pdf",
+    "Gemini Chats/Test Chat.gemini",
+    "Gemini Chats/New Chat.gemini",
+    "Gemini Chats",
+    "ECC-201/Tutorials/FM Tut.pdf",
     "ECC-201/Tutorials/AM Tut.pdf",
     "ECC-201/Cheatsheets/Cheatsheet 1.pdf",
-    "ECC-201/Self Notes/ECC201 AM Notes.pdf",
-    "ECC-201/Self Notes/ECC201 FM Notes.pdf",
-    "ECC-201/Tutorials/FM Tut.pdf",
-    "ECC-201/Tutorials/tut_am_ocr.pdf",
-    "ECC-201/B P Lathi.pdf",
-    "ECC-201/Tutorials/tut_am.pdf",
-    "ECC-201/Simon Haykins.pdf",
-    "MAB-103/Assignments/Assignment 4 (MAB-103).pdf",
-    "MAB-103/Assignments/Assignment 3 (MAB-103).pdf",
+    "2025-09-16.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make shorter.md",
@@ -293,8 +236,6 @@
     "HSS-206/Introduction.md",
     "2025-09-10.md",
     "PHI-101/Gemini Notes.md",
-    "PHI-101/Sessions/Session 3.md",
-    "2025-09-09.md",
     "attachments/Pasted image 20250723215911.png",
     "attachments/Pasted image 20250723215436.png",
     "attachments/Pasted image 20250723215403.png",
