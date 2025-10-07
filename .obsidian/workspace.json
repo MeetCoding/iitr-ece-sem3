@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d66e4037bdb66220",
+        "id": "ac44617bae2916b1",
         "type": "tabs",
         "children": [
           {
-            "id": "74a62c7c886d5783",
+            "id": "94905934bf455808",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MAB-103/Assignments/Assignment 4 (MAB-103).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment 4 (MAB-103)"
-            }
-          },
-          {
-            "id": "e82ea30b192147f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignment 4 (MAB-103).md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Assignment 4 (MAB-103)"
-            }
-          },
-          {
-            "id": "851e99817d86ef12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECC-201/Self Notes/AM.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AM"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,28 +166,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "851e99817d86ef12",
+  "active": "94905934bf455808",
   "lastOpenFiles": [
-    "MAB-103/Assignments/Assignment 6 (MAB-103).pdf",
-    "MAB-103/Assignments/Assignment 3 (MAB-103).pdf",
-    "MAB-103/Assignments/Assignment 2 (MAB-103).pdf",
+    "WRO-101/WRO-101 MTE.pdf",
+    "WRO-101/Perplexity's WRO-101 Syllabus.md",
+    "WRO-101/EEM_2025_TRC.pdf",
+    "Overview.md",
+    "PHI-101/Lecture Notes/lecture-2.pdf",
+    "PHI-101/Lecture Notes/lecture-9.pdf",
+    "PHI-101/Lecture Notes/lecture-6.pdf",
+    "PHI-101/Lecture Notes/lecture-3.pdf",
+    "PHI-101/Lecture Notes/lecture-1.pdf",
+    "PHI-101/Lecture Notes/lecture-0.pdf",
+    "PHI-101/Lecture Notes/erecompressed_recompressed_compressed_Lecture-09.pdf",
+    "PHI-101/Lecture Notes/erecompressed_recompressed_compressed_Lecture-03.pdf",
+    "PHI-101/Lecture Notes/lecture-8.pdf",
+    "PHI-101/Sessions/Session 3.md",
+    "PHI-101/Sessions/Session 1.md",
+    "PHI-101/Gemini Notes.md",
+    "Overview/Working Guide.md",
+    "ECC-201/Self Notes/Mid Term Grind.canvas",
+    "ECC-201/Self Notes/AM.md",
     "Assignment 4 (MAB-103).md",
-    "MAB-103/Assignments/Assignment 4 (MAB-103).pdf",
-    "MAB-103/Assignments/Assignment 1 (MAB-103).pdf",
-    "Gemini Chats/Test Chat.gemini",
-    "Gemini Chats/New Chat.gemini",
-    "Gemini Chats",
-    "ECC-201/Tutorials/FM Tut.pdf",
-    "ECC-201/Tutorials/AM Tut.pdf",
-    "ECC-201/Cheatsheets/Cheatsheet 1.pdf",
     "2025-09-16.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make shorter.md",
     "GhostWriter-1757873842023.md",
     "2025-09-14.md",
-    "Overview/Course Details.md",
-    "ECC-201/Self Notes/Mid Term Grind.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
@@ -230,12 +205,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "ECC-201/Self Notes/2. Fourier Transform.md",
-    "Excalidraw/Drawing 2025-09-14 01.17.00.excalidraw.md",
-    "ECC-201/Mid Term Notes.md",
-    "HSS-206/Social Cognition.md",
-    "HSS-206/Introduction.md",
-    "2025-09-10.md",
-    "PHI-101/Gemini Notes.md",
     "attachments/Pasted image 20250723215911.png",
     "attachments/Pasted image 20250723215436.png",
     "attachments/Pasted image 20250723215403.png",
