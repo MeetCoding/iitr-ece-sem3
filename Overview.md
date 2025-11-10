@@ -10,7 +10,6 @@ Courses for ECE Semester 3 IITR (2025-26) for 24116051:
 | **MAB-103** | Numerical Methods                      | Prof Notes     | Arbaz Khan            | 4       |
 | **ECC-201** | Fundamentals of Communication System   | **Self Notes** | Vinod Pankajakshan    | 4       |
 | **ECC-203** | Electromagnetics and Radiating Systems | PPT            | Gowrish Basavarajappa | 4       |
-| **ECC-205** | Network Theory                         | **Self Notes** | Saravana Kumar M.     | 2       |
 # Contact Details
 
 | Faculty Name          | Contact                                               |
