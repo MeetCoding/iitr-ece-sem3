@@ -1,20 +1,17 @@
 # Group
 
-- **Theories of Formation:**
-    - **Balance Theory of Group Formation:** The slide _names_ this theory. Its core idea is that we are motivated to keep our attitudes "balanced." We tend to like people who are similar to us. If you like a person, and that person likes a particular group, you will be motivated to like that group too, in order to "balance" your thoughts. We join groups with people who share our values and attitudes.
-    - **Exchange Theory of Group formation:** The slide also _names_ this one. This is a cost-benefit theory. It suggests we join groups because we expect the "rewards" (like social support, security, status) to be greater than the "costs" (like time, effort, disagreements). We stay in a group as long as it is profitable for us.
+**Balance Theory** suggests we join groups to keep our attitudes "balanced." We are drawn to people who share our values, so we join groups they belong to.
+
+**Exchange Theory** is a cost-benefit analysis. We join a group if we expect the "rewards" (like support, security, or status) will be greater than the "costs" (like time, effort, or disagreements).
+
 - **Social Identity:**
     - **Exact Definition:** "The group acts as a source of identity," giving us a "Self-concept and self-knowledge," "Existential security," and a "Social network and support system."
     - **Related Terms:** The slide mentions this can be through **"Common-Bond Groups"** or **"Common-Identity Groups."**
         - **Common-Bond Groups:** These are groups formed based on the attachments _between members_ (e.g., a close group of friends, a family).
         - **Common-Identity Groups:** These are groups formed because members share a "common identity" or category (e.g., students from IIT Roorkee, fans of a sports team).
-- **Self-Enhancement:**
-    - **Exact Definition:** This is the "goal of increasing the positivity of one's self-image."
-    - **How it Works:** A "Relation with strong and credible group boosts one's own public image." Our "Self-esteem gets tied to what- ever happens to the group."
-- **Social Change:**
-    - **Exact Definition:** Groups form to achieve "Social change," which in turn creates a "Politicized collective identity."
-- **Ingroup & Outgroup:**
-    - **Exact Definition:** This dynamic leads to "Ingroup favouritism," which is "When we see members of our group as better than other people, and people not in our group as all the same."
+- **Self-Enhancement:** This is the "goal of increasing the positivity of one's self-image." A "Relation with strong and credible group boosts one's own public image." Our "Self-esteem gets tied to what- ever happens to the group."
+- **Social Change:** Groups form to achieve "Social change," which in turn creates a "Politicized collective identity."
+- **Ingroup & Outgroup:** This dynamic leads to "Ingroup favouritism," which is "When we see members of our group as better than other people, and people not in our group as all the same."
 
 **What is a group?**
 "Two or more individuals, interacting and interdependent, who have come together to achieve particular objectives."
