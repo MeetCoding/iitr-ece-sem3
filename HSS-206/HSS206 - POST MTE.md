@@ -340,6 +340,8 @@ In general, the greater the similarity between two individuals, the stronger the
 
 ![[Pasted image 20251112100909.png]]
 
+## FIRO-B
+
 The **Fundamental Interpersonal Relationship Orientation – Behavior (FIRO-B)** is a model that explains how people interact with others and what they seek from their interpersonal relationships. It focuses on understanding relationship preferences and behaviors that influence how individuals form and maintain social connections.
 
 FIRO-B categorizes relationship preferences into **three main dimensions:**
